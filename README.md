@@ -1,2 +1,8 @@
 # Tizen-watch
-Watch source code for The Enterprise AppDev Launchpad Hackathon
+
+> First responder support  
+> The Enterprise AppDev Launchpad Hackathon
+
+This watch app sends GPS and heart rate data to the webapp via websocket.
+
+## https://github.com/lanly-dev/Ideators
